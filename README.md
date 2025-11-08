@@ -48,6 +48,22 @@ _Цель лабораторной работы_: изучение базовы�
    <img src="https://github.com/stpkn/LR6/blob/otchet/screenshots/8.png">
 </p>
 
+9. Создан файл example.txt в в разных ветках и с разным содержанием
+<p align="center">
+  <img src="https://github.com/stpkn/LR6/blob/otchet/screenshots/9.png">
+</p>
+<p align="center">
+  <img src="https://github.com/stpkn/LR6/blob/otchet/screenshots/10.png">
+</p>
+
+10. При слиянии возникает конфликт
+    <p align="center">
+  <img src="https://github.com/stpkn/LR6/blob/otchet/screenshots/11.png">
+</p>
+11. Решение конфликта путем изменения файла в ветке master
+ <p align="center">
+  <img src="https://github.com/stpkn/LR6/blob/otchet/screenshots/12.png">
+</p>
 ## Лог команд
 ```
 git clone
